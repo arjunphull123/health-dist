@@ -1,0 +1,782 @@
+[
+  {
+    "year": "1980",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 73.4,
+        "income": 57030
+      },
+      {
+        "race": "black",
+        "life_exp": 66.8,
+        "income": 32284
+      },
+      {
+        "race": "all",
+        "life_exp": 72.6,
+        "income": 53116
+      }
+    ]
+  },
+  {
+    "year": "1981",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 74.4,
+        "income": 56026
+      },
+      {
+        "race": "black",
+        "life_exp": 68.1,
+        "income": 30992
+      },
+      {
+        "race": "all",
+        "life_exp": 73.7,
+        "income": 52272
+      }
+    ]
+  },
+  {
+    "year": "1982",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 74.8,
+        "income": 55490
+      },
+      {
+        "race": "black",
+        "life_exp": 68.9,
+        "income": 30930
+      },
+      {
+        "race": "all",
+        "life_exp": 74.1,
+        "income": 52130
+      }
+    ]
+  },
+  {
+    "year": "1983",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 75.1,
+        "income": 55680
+      },
+      {
+        "race": "black",
+        "life_exp": 69.4,
+        "income": 30806
+      },
+      {
+        "race": "all",
+        "life_exp": 74.5,
+        "income": 51764
+      }
+    ]
+  },
+  {
+    "year": "1984",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 75.2,
+        "income": 57437
+      },
+      {
+        "race": "black",
+        "life_exp": 69.4,
+        "income": 32055
+      },
+      {
+        "race": "all",
+        "life_exp": 74.6,
+        "income": 53337
+      }
+    ]
+  },
+  {
+    "year": "1985",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 75.3,
+        "income": 58590
+      },
+      {
+        "race": "black",
+        "life_exp": 69.5,
+        "income": 34092
+      },
+      {
+        "race": "all",
+        "life_exp": 74.7,
+        "income": 54334
+      }
+    ]
+  },
+  {
+    "year": "1986",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 75.3,
+        "income": 60526
+      },
+      {
+        "race": "black",
+        "life_exp": 69.3,
+        "income": 34095
+      },
+      {
+        "race": "all",
+        "life_exp": 74.7,
+        "income": 56291
+      }
+    ]
+  },
+  {
+    "year": "1987",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 75.4,
+        "income": 61667
+      },
+      {
+        "race": "black",
+        "life_exp": 69.1,
+        "income": 34256
+      },
+      {
+        "race": "all",
+        "life_exp": 74.7,
+        "income": 56964
+      }
+    ]
+  },
+  {
+    "year": "1988",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 75.6,
+        "income": 62389
+      },
+      {
+        "race": "black",
+        "life_exp": 69.1,
+        "income": 34612
+      },
+      {
+        "race": "all",
+        "life_exp": 74.9,
+        "income": 57433
+      }
+    ]
+  },
+  {
+    "year": "1989",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 75.6,
+        "income": 62779
+      },
+      {
+        "race": "black",
+        "life_exp": 68.9,
+        "income": 36550
+      },
+      {
+        "race": "all",
+        "life_exp": 74.9,
+        "income": 58425
+      }
+    ]
+  },
+  {
+    "year": "1990",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 75.9,
+        "income": 61533
+      },
+      {
+        "race": "black",
+        "life_exp": 68.8,
+        "income": 35974
+      },
+      {
+        "race": "all",
+        "life_exp": 75.1,
+        "income": 57677
+      }
+    ]
+  },
+  {
+    "year": "1991",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 76.1,
+        "income": 60076
+      },
+      {
+        "race": "black",
+        "life_exp": 69.1,
+        "income": 34955
+      },
+      {
+        "race": "all",
+        "life_exp": 75.4,
+        "income": 55992
+      }
+    ]
+  },
+  {
+    "year": "1992",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 76.3,
+        "income": 60372
+      },
+      {
+        "race": "black",
+        "life_exp": 69.3,
+        "income": 34012
+      },
+      {
+        "race": "all",
+        "life_exp": 75.5,
+        "income": 55559
+      }
+    ]
+  },
+  {
+    "year": "1993",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 76.5,
+        "income": 60449
+      },
+      {
+        "race": "black",
+        "life_exp": 69.6,
+        "income": 34552
+      },
+      {
+        "race": "all",
+        "life_exp": 75.8,
+        "income": 55263
+      }
+    ]
+  },
+  {
+    "year": "1994",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 76.3,
+        "income": 60864
+      },
+      {
+        "race": "black",
+        "life_exp": 69.2,
+        "income": 36434
+      },
+      {
+        "race": "all",
+        "life_exp": 75.5,
+        "income": 55905
+      }
+    ]
+  },
+  {
+    "year": "1995",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 76.5,
+        "income": 62904
+      },
+      {
+        "race": "black",
+        "life_exp": 69.5,
+        "income": 37888
+      },
+      {
+        "race": "all",
+        "life_exp": 75.7,
+        "income": 57655
+      }
+    ]
+  },
+  {
+    "year": "1996",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 76.5,
+        "income": 63924
+      },
+      {
+        "race": "black",
+        "life_exp": 69.6,
+        "income": 38700
+      },
+      {
+        "race": "all",
+        "life_exp": 75.8,
+        "income": 58494
+      }
+    ]
+  },
+  {
+    "year": "1997",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 76.8,
+        "income": 65459
+      },
+      {
+        "race": "black",
+        "life_exp": 70.2,
+        "income": 40411
+      },
+      {
+        "race": "all",
+        "life_exp": 76.1,
+        "income": 59697
+      }
+    ]
+  },
+  {
+    "year": "1998",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 77.1,
+        "income": 67548
+      },
+      {
+        "race": "black",
+        "life_exp": 71.1,
+        "income": 40350
+      },
+      {
+        "race": "all",
+        "life_exp": 76.5,
+        "income": 61891
+      }
+    ]
+  },
+  {
+    "year": "1999",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 77.3,
+        "income": 68817
+      },
+      {
+        "race": "black",
+        "life_exp": 71.3,
+        "income": 43497
+      },
+      {
+        "race": "all",
+        "life_exp": 76.7,
+        "income": 63423
+      }
+    ]
+  },
+  {
+    "year": "2000",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 77.3,
+        "income": 68768
+      },
+      {
+        "race": "black",
+        "life_exp": 71.4,
+        "income": 44718
+      },
+      {
+        "race": "all",
+        "life_exp": 76.7,
+        "income": 63292
+      }
+    ]
+  },
+  {
+    "year": "2001",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 77.3,
+        "income": 67864
+      },
+      {
+        "race": "black",
+        "life_exp": 71.8,
+        "income": 43191
+      },
+      {
+        "race": "all",
+        "life_exp": 76.8,
+        "income": 61889
+      }
+    ]
+  },
+  {
+    "year": "2002",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 77.5,
+        "income": 67669
+      },
+      {
+        "race": "black",
+        "life_exp": 72,
+        "income": 42098
+      },
+      {
+        "race": "all",
+        "life_exp": 77,
+        "income": 61190
+      }
+    ]
+  },
+  {
+    "year": "2003",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 77.5,
+        "income": 67404
+      },
+      {
+        "race": "black",
+        "life_exp": 72.2,
+        "income": 41885
+      },
+      {
+        "race": "all",
+        "life_exp": 77,
+        "income": 61113
+      }
+    ]
+  },
+  {
+    "year": "2004",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 77.7,
+        "income": 67187
+      },
+      {
+        "race": "black",
+        "life_exp": 72.4,
+        "income": 41534
+      },
+      {
+        "race": "all",
+        "life_exp": 77.2,
+        "income": 60901
+      }
+    ]
+  },
+  {
+    "year": "2005",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 78.1,
+        "income": 67476
+      },
+      {
+        "race": "black",
+        "life_exp": 72.9,
+        "income": 41128
+      },
+      {
+        "race": "all",
+        "life_exp": 77.6,
+        "income": 61553
+      }
+    ]
+  },
+  {
+    "year": "2006",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 78,
+        "income": 67467
+      },
+      {
+        "race": "black",
+        "life_exp": 73,
+        "income": 41353
+      },
+      {
+        "race": "all",
+        "life_exp": 77.6,
+        "income": 62033
+      }
+    ]
+  },
+  {
+    "year": "2007",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 78.3,
+        "income": 68731
+      },
+      {
+        "race": "black",
+        "life_exp": 73.4,
+        "income": 42664
+      },
+      {
+        "race": "all",
+        "life_exp": 77.8,
+        "income": 62865
+      }
+    ]
+  },
+  {
+    "year": "2008",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 78.5,
+        "income": 66924
+      },
+      {
+        "race": "black",
+        "life_exp": 73.8,
+        "income": 41392
+      },
+      {
+        "race": "all",
+        "life_exp": 78.1,
+        "income": 60624
+      }
+    ]
+  },
+  {
+    "year": "2009",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 78.5,
+        "income": 65865
+      },
+      {
+        "race": "black",
+        "life_exp": 74.3,
+        "income": 39608
+      },
+      {
+        "race": "all",
+        "life_exp": 78.2,
+        "income": 60200
+      }
+    ]
+  },
+  {
+    "year": "2010",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 78.8,
+        "income": 64794
+      },
+      {
+        "race": "black",
+        "life_exp": 74.7,
+        "income": 38258
+      },
+      {
+        "race": "all",
+        "life_exp": 78.5,
+        "income": 58627
+      }
+    ]
+  },
+  {
+    "year": "2011",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 78.9,
+        "income": 63912
+      },
+      {
+        "race": "black",
+        "life_exp": 75.1,
+        "income": 37331
+      },
+      {
+        "race": "all",
+        "life_exp": 78.7,
+        "income": 57732
+      }
+    ]
+  },
+  {
+    "year": "2012",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 79,
+        "income": 64391
+      },
+      {
+        "race": "black",
+        "life_exp": 75.3,
+        "income": 38084
+      },
+      {
+        "race": "all",
+        "life_exp": 78.7,
+        "income": 57623
+      }
+    ]
+  },
+  {
+    "year": "2013",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 79.1,
+        "income": 64854
+      },
+      {
+        "race": "black",
+        "life_exp": 75.5,
+        "income": 38704
+      },
+      {
+        "race": "all",
+        "life_exp": 78.8,
+        "income": 57808
+      }
+    ]
+  },
+  {
+    "year": "2014",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 79,
+        "income": 67146
+      },
+      {
+        "race": "black",
+        "life_exp": 75.5,
+        "income": 39021
+      },
+      {
+        "race": "all",
+        "life_exp": 78.8,
+        "income": 58725
+      }
+    ]
+  },
+  {
+    "year": "2015",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 79.1,
+        "income": 65948
+      },
+      {
+        "race": "black",
+        "life_exp": 75.6,
+        "income": 40646
+      },
+      {
+        "race": "all",
+        "life_exp": 78.9,
+        "income": 61748
+      }
+    ]
+  },
+  {
+    "year": "2016",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 78.9,
+        "income": 68778
+      },
+      {
+        "race": "black",
+        "life_exp": 75.5,
+        "income": 43217
+      },
+      {
+        "race": "all",
+        "life_exp": 78.7,
+        "income": 63683
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 78.9,
+        "income": 70157
+      },
+      {
+        "race": "black",
+        "life_exp": 75.3,
+        "income": 42865
+      },
+      {
+        "race": "all",
+        "life_exp": 78.7,
+        "income": 64806
+      }
+    ]
+  },
+  {
+    "year": "2018",
+    "races": [
+      {
+        "race": "white",
+        "life_exp": 78.8,
+        "income": 72005
+      },
+      {
+        "race": "black",
+        "life_exp": 75.3,
+        "income": 42977
+      },
+      {
+        "race": "all",
+        "life_exp": 78.6,
+        "income": 65127
+      }
+    ]
+  }
+]

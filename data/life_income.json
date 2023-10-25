@@ -1,0 +1,314 @@
+{
+   "1980": {
+      "white_le": 73.4,
+      "black_le": 66.8,
+      "all_le": 72.6,
+      "white_income": "57,030",
+      "black_income": "32,284",
+      "all_income": "53,116"
+   },
+   "1981": {
+      "white_le": 74.4,
+      "black_le": 68.1,
+      "all_le": 73.7,
+      "white_income": "56,026",
+      "black_income": "30,992",
+      "all_income": "52,272"
+   },
+   "1982": {
+      "white_le": 74.8,
+      "black_le": 68.9,
+      "all_le": 74.1,
+      "white_income": "55,490",
+      "black_income": "30,930",
+      "all_income": "52,130"
+   },
+   "1983": {
+      "white_le": 75.1,
+      "black_le": 69.4,
+      "all_le": 74.5,
+      "white_income": "55,680",
+      "black_income": "30,806",
+      "all_income": "51,764"
+   },
+   "1984": {
+      "white_le": 75.2,
+      "black_le": 69.4,
+      "all_le": 74.6,
+      "white_income": "57,437",
+      "black_income": "32,055",
+      "all_income": "53,337"
+   },
+   "1985": {
+      "white_le": 75.3,
+      "black_le": 69.5,
+      "all_le": 74.7,
+      "white_income": "58,590",
+      "black_income": "34,092",
+      "all_income": "54,334"
+   },
+   "1986": {
+      "white_le": 75.3,
+      "black_le": 69.3,
+      "all_le": 74.7,
+      "white_income": "60,526",
+      "black_income": "34,095",
+      "all_income": "56,291"
+   },
+   "1987": {
+      "white_le": 75.4,
+      "black_le": 69.1,
+      "all_le": 74.7,
+      "white_income": "61,667",
+      "black_income": "34,256",
+      "all_income": "56,964"
+   },
+   "1988": {
+      "white_le": 75.6,
+      "black_le": 69.1,
+      "all_le": 74.9,
+      "white_income": "62,389",
+      "black_income": "34,612",
+      "all_income": "57,433"
+   },
+   "1989": {
+      "white_le": 75.6,
+      "black_le": 68.9,
+      "all_le": 74.9,
+      "white_income": "62,779",
+      "black_income": "36,550",
+      "all_income": "58,425"
+   },
+   "1990": {
+      "white_le": 75.9,
+      "black_le": 68.8,
+      "all_le": 75.1,
+      "white_income": "61,533",
+      "black_income": "35,974",
+      "all_income": "57,677"
+   },
+   "1991": {
+      "white_le": 76.1,
+      "black_le": 69.1,
+      "all_le": 75.4,
+      "white_income": "60,076",
+      "black_income": "34,955",
+      "all_income": "55,992"
+   },
+   "1992": {
+      "white_le": 76.3,
+      "black_le": 69.3,
+      "all_le": 75.5,
+      "white_income": "60,372",
+      "black_income": "34,012",
+      "all_income": "55,559"
+   },
+   "1993": {
+      "white_le": 76.5,
+      "black_le": 69.6,
+      "all_le": 75.8,
+      "white_income": "60,449",
+      "black_income": "34,552",
+      "all_income": "55,263"
+   },
+   "1994": {
+      "white_le": 76.3,
+      "black_le": 69.2,
+      "all_le": 75.5,
+      "white_income": "60,864",
+      "black_income": "36,434",
+      "all_income": "55,905"
+   },
+   "1995": {
+      "white_le": 76.5,
+      "black_le": 69.5,
+      "all_le": 75.7,
+      "white_income": "62,904",
+      "black_income": "37,888",
+      "all_income": "57,655"
+   },
+   "1996": {
+      "white_le": 76.5,
+      "black_le": 69.6,
+      "all_le": 75.8,
+      "white_income": "63,924",
+      "black_income": "38,700",
+      "all_income": "58,494"
+   },
+   "1997": {
+      "white_le": 76.8,
+      "black_le": 70.2,
+      "all_le": 76.1,
+      "white_income": "65,459",
+      "black_income": "40,411",
+      "all_income": "59,697"
+   },
+   "1998": {
+      "white_le": 77.1,
+      "black_le": 71.1,
+      "all_le": 76.5,
+      "white_income": "67,548",
+      "black_income": "40,350",
+      "all_income": "61,891"
+   },
+   "1999": {
+      "white_le": 77.3,
+      "black_le": 71.3,
+      "all_le": 76.7,
+      "white_income": "68,817",
+      "black_income": "43,497",
+      "all_income": "63,423"
+   },
+   "2000": {
+      "white_le": 77.3,
+      "black_le": 71.4,
+      "all_le": 76.7,
+      "white_income": "68,768",
+      "black_income": "44,718",
+      "all_income": "63,292"
+   },
+   "2001": {
+      "white_le": 77.3,
+      "black_le": 71.8,
+      "all_le": 76.8,
+      "white_income": "67,864",
+      "black_income": "43,191",
+      "all_income": "61,889"
+   },
+   "2002": {
+      "white_le": 77.5,
+      "black_le": 72,
+      "all_le": 77,
+      "white_income": "67,669",
+      "black_income": "42,098",
+      "all_income": "61,190"
+   },
+   "2003": {
+      "white_le": 77.5,
+      "black_le": 72.2,
+      "all_le": 77,
+      "white_income": "67,404",
+      "black_income": "41,885",
+      "all_income": "61,113"
+   },
+   "2004": {
+      "white_le": 77.7,
+      "black_le": 72.4,
+      "all_le": 77.2,
+      "white_income": "67,187",
+      "black_income": "41,534",
+      "all_income": "60,901"
+   },
+   "2005": {
+      "white_le": 78.1,
+      "black_le": 72.9,
+      "all_le": 77.6,
+      "white_income": "67,476",
+      "black_income": "41,128",
+      "all_income": "61,553"
+   },
+   "2006": {
+      "white_le": 78,
+      "black_le": 73,
+      "all_le": 77.6,
+      "white_income": "67,467",
+      "black_income": "41,353",
+      "all_income": "62,033"
+   },
+   "2007": {
+      "white_le": 78.3,
+      "black_le": 73.4,
+      "all_le": 77.8,
+      "white_income": "68,731",
+      "black_income": "42,664",
+      "all_income": "62,865"
+   },
+   "2008": {
+      "white_le": 78.5,
+      "black_le": 73.8,
+      "all_le": 78.1,
+      "white_income": "66,924",
+      "black_income": "41,392",
+      "all_income": "60,624"
+   },
+   "2009": {
+      "white_le": 78.5,
+      "black_le": 74.3,
+      "all_le": 78.2,
+      "white_income": "65,865",
+      "black_income": "39,608",
+      "all_income": "60,200"
+   },
+   "2010": {
+      "white_le": 78.8,
+      "black_le": 74.7,
+      "all_le": 78.5,
+      "white_income": "64,794",
+      "black_income": "38,258",
+      "all_income": "58,627"
+   },
+   "2011": {
+      "white_le": 78.9,
+      "black_le": 75.1,
+      "all_le": 78.7,
+      "white_income": "63,912",
+      "black_income": "37,331",
+      "all_income": "57,732"
+   },
+   "2012": {
+      "white_le": 79,
+      "black_le": 75.3,
+      "all_le": 78.7,
+      "white_income": "64,391",
+      "black_income": "38,084",
+      "all_income": "57,623"
+   },
+   "2013": {
+      "white_le": 79.1,
+      "black_le": 75.5,
+      "all_le": 78.8,
+      "white_income": "64,854",
+      "black_income": "38,704",
+      "all_income": "57,808"
+   },
+   "2014": {
+      "white_le": 79,
+      "black_le": 75.5,
+      "all_le": 78.8,
+      "white_income": "67,146",
+      "black_income": "39,021",
+      "all_income": "58,725"
+   },
+   "2015": {
+      "white_le": 79.1,
+      "black_le": 75.6,
+      "all_le": 78.9,
+      "white_income": "65,948",
+      "black_income": "40,646",
+      "all_income": "61,748"
+   },
+   "2016": {
+      "white_le": 78.9,
+      "black_le": 75.5,
+      "all_le": 78.7,
+      "white_income": "68,778",
+      "black_income": "43,217",
+      "all_income": "63,683"
+   },
+   "2017": {
+      "white_le": 78.9,
+      "black_le": 75.3,
+      "all_le": 78.7,
+      "white_income": "70,157",
+      "black_income": "42,865",
+      "all_income": "64,806"
+   },
+   "2018": {
+      "white_le": 78.8,
+      "black_le": 75.3,
+      "all_le": 78.6,
+      "white_income": "72,005",
+      "black_income": "42,977",
+      "all_income": "65,127"
+   }
+}
