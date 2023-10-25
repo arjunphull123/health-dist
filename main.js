@@ -1,4 +1,3 @@
-
 //Visualization inspired from Hans Rosling's famous GapMinder Visualization of World Income and Life Expectancy Distribution visualization (2020)
 // Javascript library used: D3.js by Bostock (2022): https://github.com/d3/d3
 //Code adapted from Adam Janes (2020): https://github.com/adamjanes/udemy-d3/tree/master/05
