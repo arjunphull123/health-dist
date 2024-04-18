@@ -166,4 +166,5 @@ line {
 .legend {
   display: flex;
   flex-direction: row;
+  font-family: VTC Du Bois Trial;
 }
