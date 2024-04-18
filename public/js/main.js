@@ -54,21 +54,25 @@ const xLabel = g.append("text")
 	.attr("x", WIDTH / 2)
 	.attr("font-size", "20px")
 	.attr("text-anchor", "middle")
-	.text("Median Family Income ($)")
+	.attr("class", "xLabel")
+	.text("MEDIAN FAMILY INCOME IN DOLLARS.")
+
 const yLabel = g.append("text")
 	.attr("transform", "rotate(-90)")
 	.attr("y", -40)
-	.attr("x", -170)
+	.attr("x", -270)
 	.attr("font-size", "20px")
 	.attr("text-anchor", "middle")
-	.text("Life Expectancy (Years)")
+	.attr("class", "yLabel")
+	.text("LIFE EXPECTANCY IN YEARS.")
+
 const timeLabel = g.append("text")
-	.attr("y", HEIGHT - 15)
-	.attr("x", WIDTH - 45)
+	.attr("y", HEIGHT - 10)
+	.attr("x", WIDTH - 55)
 	.attr("font-size", "40px")
 	.attr("opacity", "1")
+	.attr("class", "timeLabel")
 	.attr("text-anchor", "middle")
-	.style("color","#B21112")
 	.text("1980")
 
 // X Axis
@@ -81,7 +85,8 @@ g.append("g")
 	.attr("transform", `translate(0, ${HEIGHT})`)
 	.call(xAxisCall)
 	.selectAll(".tick text")
-		.style("font-size", "12px");
+		.style("font-size", "12px")
+		.attr("class", "xTickText")
 
 // Y Axis
 const yAxisCall = d3.axisLeft(y)
@@ -91,7 +96,8 @@ g.append("g")
 	.attr("class", "yaxis")
 	.call(yAxisCall)
 	.selectAll(".tick text")
-		.style("font-size", "12px");
+		.style("font-size", "12px")
+		.attr("class", "yTickText")
 
 // Invoke the tooltip on the SVG container
 g.call(tip);
@@ -119,7 +125,8 @@ g.append("g")
 // add legends 
 
 const legend = g.append("g")
-  .attr("transform", `translate(0, ${HEIGHT + 50})`);
+  .attr("transform", `translate(15, 15)`)
+  .attr("class", 'legend')
 
 legend.append("rect")
   .attr("x", 0)
@@ -130,6 +137,7 @@ legend.append("rect")
 legend.append("text")
   .attr("x", 20)
   .attr("y", 10)
+  .attr("class", "legendText")
   .text(" African Americans")
 
 legend.append("rect")
@@ -141,6 +149,7 @@ legend.append("rect")
 legend.append("text")
   .attr("x", 20)
   .attr("y", 30)
+  .attr("class", "legendText")
   .text(" White Americans")
 
 legend.append("rect")
@@ -152,6 +161,7 @@ legend.append("rect")
 legend.append("text")
   .attr("x", 20)
   .attr("y", 50)
+  .attr("class", "legendText")
   .text("All races")
 
 d3.json("../data/current_data.json").then(function(data){
