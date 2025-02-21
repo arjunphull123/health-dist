@@ -13,8 +13,8 @@ Assistance taken from ChatGPT to refine and debug code*/
 
 @font-face {
   font-family: 'VTC Du Bois';
-  src: url('/VTCDuBois-Bold.woff2') format('woff2'),
-       url('/VTCDuBois-Bold.woff') format('woff');
+  src: url('/fonts/VTCDuBois-Bold.woff2') format('woff2'),
+       url('/fonts/VTCDuBois-Bold.woff') format('woff');
   font-weight: 700;
   font-style: normal;
 }
